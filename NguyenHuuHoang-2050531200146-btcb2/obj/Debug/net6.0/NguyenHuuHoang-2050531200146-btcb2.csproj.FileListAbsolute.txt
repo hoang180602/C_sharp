@@ -1,0 +1,15 @@
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\obj\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.csproj.AssemblyReference.cache
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\obj\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\obj\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.AssemblyInfoInputs.cache
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\obj\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.AssemblyInfo.cs
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\obj\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.csproj.CoreCompileInputs.cache
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\bin\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.exe
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\bin\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.deps.json
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\bin\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.runtimeconfig.json
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\bin\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.dll
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\bin\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.pdb
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\obj\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.dll
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\obj\Debug\net6.0\refint\NguyenHuuHoang-2050531200146-btcb2.dll
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\obj\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.pdb
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\obj\Debug\net6.0\NguyenHuuHoang-2050531200146-btcb2.genruntimeconfig.cache
+C:\Users\GuynIT\Desktop\baitapc#\NguyenHuuHoang-2050531200146-btcb2\obj\Debug\net6.0\ref\NguyenHuuHoang-2050531200146-btcb2.dll
